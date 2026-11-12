@@ -83,7 +83,7 @@ flowchart LR
         BYD["BYD"]
 
         GWM["Great Wall Motor"] --> Ora["GWM ORA"]
-
+        GWM --> |Spotlight Automotive| MINI
         Xpeng["XPENG"]
 
         Leapmotor["Leapmotor"]
